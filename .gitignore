@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# config file
+config.py
+
+# NYC Crime CSV file
+NYPD_Complaint_Data_Historic.csv
