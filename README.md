@@ -21,4 +21,14 @@ Historical data is provided by the NYC Open Data Website. Analyzing the crime da
 </p>
 
 
+We chose only to stick with crimes that were Theft related, So it would be possible to Forecast Using our other variables.
+The data was then sorted by Month with a Count of Total Crimes.
+
+<p align='center'>
+    <img src='./Pictures/Table Rate.png' title='Data Set'>
+</p>
+
+
+
+
 
