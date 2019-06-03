@@ -25,7 +25,7 @@ We chose only to stick with crimes that were Theft related, So it would be possi
 The data was then sorted by Month with a Count of Total Crimes.
 
 <p align='center'>
-    <img src='./Pictures/Table Rate.png' title='Data Set'>
+    <img src='./Pictures/Ctable.png' title='Data Set'>
 </p>
 
 
