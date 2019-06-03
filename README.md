@@ -1,5 +1,6 @@
 # Time-series
-### working on crime rate in New York City
+
+### Predicting crime rate in New York City. 
 
 
 ## Goal
@@ -11,4 +12,4 @@
 
 ## Data Set:
 
-### Data set 
+### 
