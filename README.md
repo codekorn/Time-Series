@@ -28,6 +28,12 @@ The data was then sorted by Month with a Count of Total Crimes.
     <img src='./Pictures/Ctable.png' title='Data Set'>
 </p>
 
+Finaly you can see our predictins here!
+
+<p align='center'>
+    <img src='./Pictures/pred.png' title='Predictions'>
+</p>
+
 
 
 
